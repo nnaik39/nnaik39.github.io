@@ -24,6 +24,12 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+.post article .clearfix {
+  h2 {
+    font-size: 1.25rem;
+  }
+}
+
 table {
   td,
   th {
