@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Stanford CS | <a href='https://scholar.google.com/citations?user=3kTEkSIAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/nandita-naik/'>LinkedIn</a> | Research @ <a href='#'>Stanford NLP Group</a>
+subtitle: <a href='https://www.linkedin.com/in/nandita-naik/'>LinkedIn</a>
 
 profile:
   align: right
@@ -16,28 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a master's student at Stanford, studying computer science and machine learning. I'm supervised by [Elisa Kreiss](https://www.coalas-lab.com/elisakreiss) and [Christopher Potts](https://web.stanford.edu/~cgpotts/papers.html). I'm interning at [Contextual AI](https://contextual.ai/) this summer, supervised by [Douwe Kiela](https://douwekiela.github.io/). My research interests are in the intersection of vision and language models.
-
-I'm also a published fiction and poetry writer.
+Hi there! I'm a writer living in San Francisco.
 
 <br>
 <br>
 <br>
 <br>
-
-## Research Publications
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
-
-## Awards
-
-- CS 229 Best Project for [satellite image embeddings project](https://static.us.edusercontent.com/files/iDT2TYD92tg33W2H8bCgC836), awarded in Andrew Ng's graduate-level machine learning class, selected from 300+ students
-- Stanford CS + Social Good Fellowship
-- USA Computing Olympiad Gold Division
 
 ## Creative Writing
 
