@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a writer living in San Francisco.
+Hi there! I'm a writer living in San Francisco, and a software engineer working at Quizlet.
 
 ## Fiction
 
