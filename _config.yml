@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nandita Shankar Naik # the website title (if blank, full name will be used instead)
+title: Nandita Naik # the website title (if blank, full name will be used instead)
 first_name: Nandita
-middle_name: Shankar
+middle_name:
 last_name: Naik
 email: nanditan@cs.stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
