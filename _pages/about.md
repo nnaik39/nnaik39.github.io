@@ -45,6 +45,9 @@ Hi there! I'm a writer living in San Francisco, and a software engineer working 
 - [Keats-Shelley Young Romantics Poetry Prize Finalist](https://keats-shelley.org/news/2018s_keats_shelley_prize_awards)
 - [Poetry Matters Prize Finalist](https://soundcloud.com/poetrymattersproject/ghost-nandita-naik)
 
+## Academic
+- [Paper on David Bowie, Gnosticism, Feminism, and Creativity](https://nanditanaik.com/assets/pdf/naik_iaspm_paper.pdf) (presented at IASPM 2022)
+
 ## Readings
 
 - Four Way Review 10-Year Anniversary Reading, Dec 16, 2022
