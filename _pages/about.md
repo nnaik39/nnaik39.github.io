@@ -41,12 +41,11 @@ Hi there! I'm a writer living in San Francisco, and a software engineer working 
 - [Adroit Prize for Prose, 2022](https://theadroitjournal.org/2022/08/11/announcing-the-winners-of-the-2022-adroit-prizes-for-poetry-and-prose/)
 - [Best of the Net Nominee,](https://therisingphoenixreview.com/2018/09/30/best-of-the-net-nominations-2018/) 2x
 - [Foyle Young Poets, Commended](https://poetrysociety.org.uk/competitions/foyle-young-poets-of-the-year-award/)
-- American High School Poets National Winner and $100 Editor's Choice Award
 - [Keats-Shelley Young Romantics Poetry Prize Finalist](https://keats-shelley.org/news/2018s_keats_shelley_prize_awards)
 - [Poetry Matters Prize Finalist](https://soundcloud.com/poetrymattersproject/ghost-nandita-naik)
 
 ## Academic
-- [Paper on David Bowie, Gnosticism, Feminism, and Creativity](https://nanditanaik.com/assets/pdf/naik_iaspm_paper.pdf) (presented at IASPM 2022)
+- ["You Know, I'll Be Free": Gnosticism, Feminism, and Creativity in David Bowie's *Blackstar*](https://nanditanaik.com/assets/pdf/naik_iaspm_paper.pdf) (presented at IASPM 2022)
 
 ## Readings
 
